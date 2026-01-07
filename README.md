@@ -88,4 +88,7 @@ As additional learning, RANSAC was studied to understand how noisy data and outl
 ---
 
 ## Repository Structure
-
+├── reports/ # Weekly reports and documentation
+├── resources/ # Learning links and references
+├── code/ # Implementation files (to be added)
+└── README.md
